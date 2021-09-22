@@ -1,0 +1,22 @@
+.speech {
+    font-family: Calibri;
+    font-size: 16px;
+    color: black;
+    margin: 18px;
+}
+
+.stage-direction {
+    font-family: Garamond, Arial;
+    font-size: 16px;
+    color: black;
+    background-color: rgb(245, 245, 186);
+}
+
+.stage-direction:hover {
+    background-color: rgb(4, 0, 255);
+    color: rgb(0, 255, 128);
+}
+.name {
+    font-size: 18px;
+    color: rgb(153, 0, 255);
+}
