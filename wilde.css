@@ -21,6 +21,11 @@
     color: black;
 }
 
+.name:hover {
+    background-color: rgb(51, 105, 187);
+    color: rgb(211, 12, 12);
+    border: 6px solid green;
+
 table {
     margin: 30px;
     font-family: arial, sans-serif;
